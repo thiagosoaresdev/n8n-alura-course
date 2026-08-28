@@ -1,4 +1,4 @@
-# n8n-alura-course
+# n8n-alura-course - v2
 
 Repositório com workflows e exemplos práticos do treinamento de n8n da Alura.
 
